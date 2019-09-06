@@ -1,2 +1,2 @@
 # Python-concoction
-small tutorial I followed to learn python
+small tutorials I followed from YouTube to learn python
